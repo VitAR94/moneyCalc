@@ -158,7 +158,7 @@ main {
     padding-right: 10px;
 }
 
-.history_delete{
+.history__delete{
     background-color: transparent;
     color: red;
     padding: 0 10;
@@ -169,7 +169,7 @@ main {
     cursor: pointer;
 }
 
-.history__item:hover .history_delete{
+.history__item:hover .history__delete{
     opacity: 1;
 }
 
